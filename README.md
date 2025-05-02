@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on dwarf galaxy detection 
 - 🌱 I’m currently learning ML techniques for vision tasks
 - 👯 I’m looking to collaborate on self-supervised representation learning for astronomical applications
-- 💬 Ask me about dwarf galaxies and where to find them
+- 💬 Ask me about dwarf galaxies and how to find them
 - 📫 How to reach me: nick.heesters@epfl.ch
 - 😄 Pronouns: he/him
